@@ -1,4 +1,5 @@
 # Atliq-Hardware
+SQL Project
 Resume Project Challenge #4
 
 Domain:  Consumer Goods | Function: Executive Management
